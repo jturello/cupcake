@@ -1,0 +1,11 @@
+.flashy {
+  color: red;
+  font-style: italic;
+}
+
+.best {
+  font-weight: bold;
+  color: purple;
+  font-style: italic;
+  font-size: 50px;
+}
